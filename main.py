@@ -14,8 +14,11 @@ while operations_done != operations_to_resolve:
 x2 = datetime.datetime.now()
 
 
-print("Starting time" + x1)
+print("Starting time:")
+print(x1) 
+print("")
 print("Seconds it took to perform the operations:")
 print(x2 - x1)
 print("") 
-print("Number of operations it made:" + operations_to_resolve)
+print("Number of operations it made:")
+print(operations_to_resolve)
