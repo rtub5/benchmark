@@ -1,7 +1,7 @@
 import random 
 import datetime 
 
-operations_to_resolve = 10000
+operations_to_resolve = 10000000
 
 operations_done = 0 
 
